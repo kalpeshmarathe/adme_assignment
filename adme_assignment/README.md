@@ -37,3 +37,5 @@ npm start
 # or
 yarn start
 ```
+
+![Project Screenshot](https://github.com/kalpeshmarathe/adme_assignment/blob/master/adme_assignment/public/React-App.png)
